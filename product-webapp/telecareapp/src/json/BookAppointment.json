@@ -1,5 +1,5 @@
 {
-    //"BookAppointment": [
+    "BookAppointment": [
         {
             "appointmentId": "120",
             "patientEmail": "pal@gmail.com",
